@@ -7,6 +7,6 @@ class Solution:
 
         reversed_n = int(reversed_karibasu) #again it will convert to integer
 
-        return abs(n-reversed_n) # Return absolute difference
+        return abs(n-reversed_n) # Return absolute difference666666
 
        
